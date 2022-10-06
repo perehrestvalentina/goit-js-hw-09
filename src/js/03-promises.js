@@ -1,6 +1,4 @@
-
-//import { Notify } from "notiflix";
-
+import { Notify } from "notiflix";
 const formEl = document.querySelector('.form');
 formEl.addEventListener('submit', onFormSubmit);
 
